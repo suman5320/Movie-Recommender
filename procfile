@@ -1,0 +1,1 @@
+web: sh setup.ch && streamlit run app.py
