@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-🚀 [Live Demo]([https://your-username.streamlit.app/](https://movie-recommender-kvphuoyhfu72havtpapvpw.streamlit.app/#movies-recommended-system))
+🚀 [Live Demo](https://movie-recommender-kvphuoyhfu72havtpapvpw.streamlit.app/#movies-recommended-system)
 
 A content-based movie recommendation system built using Streamlit.  
 Select a movie and get 5 similar movies recommended along with their posters — powered by TMDB API and cosine similarity.
