@@ -21,7 +21,7 @@ The system suggests movies similar to the one selected by the user based on plot
   - numpy
   - scikit-learn
   - streamlit
-- **Dataset:** [TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) (or your dataset link)
+- **Dataset:** [TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) 
 
 ---
 
